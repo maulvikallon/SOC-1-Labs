@@ -2,7 +2,7 @@
 “Hands-on SOC Analyst projects from TryHackMe SOC Level 1 Path and supporting labs.”
 
 # SOC 1 Labs — TryHackMe Path 
-- ## Profile  - [TryHackMe Profile] https://tryhackme.com/p/maulvikallon89
+- ## Profile  - [TryHackMe Profile] https://tryhackme.com/p/maulvikallon
 
 
 This repository highlights my hands-on cybersecurity labs from the **TryHackMe SOC Level 1 Path** and supporting projects.  
